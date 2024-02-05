@@ -21,7 +21,7 @@ Run YOLOv4 directly with OpenCV using the DNN module.
 # Using HTTPS
 git clone https://github.com/Rahulmadiraju/InsightfulEyes-Object-detection-for-the-Visually-impaired.git
 # Using SSH
-git clone git@github.com:aj-ames/YOLOv4-OpenCV-DNN.git
+git clone git@github.com:Rahulmadiraju/InsightfulEyes-Object-detection-for-the-Visually-impaired.git
 ```
 
 Finally, enable lfs and pull the yolo weights

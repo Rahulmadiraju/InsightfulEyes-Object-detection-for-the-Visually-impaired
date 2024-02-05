@@ -5,7 +5,7 @@ InsightfulEyes : Empowering visually impaired individuals with Object detection 
 
 Run YOLOv4 directly with OpenCV using the DNN module.
 
-![<span>Photo by <a href="https://unsplash.com/@christopher__burns?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Christopher Burns</a> on <a href="https://unsplash.com/s/photos/people?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>](resources/cover.jpg)
+
 
 ## Index
 
